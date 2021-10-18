@@ -8,7 +8,7 @@
 Алфавит - AΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
 ## Буква A
   
-![A](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_A/A.png)  
+![A](./resources/images/letter_A/A.png)  
 Вес черного - 990  
 Удельный вес черного - 0.7869634340222575  
 Координаты центра масс - (18, 16)  
@@ -17,12 +17,12 @@
 Центральный вертикальный осевой момент - 126428  
 Нормированный центральный горизонтальный осевой момент -37.64990099009901  
 Нормированный центральный вертикальный осевой момент -50.07049504950495  
-![A](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_A/horizontal_projection_A.png)  
-![A](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_A/vertical_projection_A.png)  
+![A](./resources/images/letter_A/horizontal_projection_A.png)  
+![A](./resources/images/letter_A/vertical_projection_A.png)  
 
 ## Буква Β
   
-![Β](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Β/Β.png)  
+![Β](./resources/images/letter_Β/Β.png)  
 Вес черного - 659  
 Удельный вес черного - 0.6056985294117647  
 Координаты центра масс - (15, 16)  
@@ -31,12 +31,12 @@
 Центральный вертикальный осевой момент - 59088  
 Нормированный центральный горизонтальный осевой момент -26.493119266055047  
 Нормированный центральный вертикальный осевой момент -27.1045871559633  
-![Β](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Β/horizontal_projection_Β.png)  
-![Β](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Β/vertical_projection_Β.png)  
+![Β](./resources/images/letter_Β/horizontal_projection_Β.png)  
+![Β](./resources/images/letter_Β/vertical_projection_Β.png)  
 
 ## Буква Γ
   
-![Γ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Γ/Γ.png)  
+![Γ](./resources/images/letter_Γ/Γ.png)  
 Вес черного - 748  
 Удельный вес черного - 0.7586206896551724  
 Координаты центра масс - (15, 17)  
@@ -45,12 +45,12 @@
 Центральный вертикальный осевой момент - 56065  
 Нормированный центральный горизонтальный осевой момент -30.924386579869804  
 Нормированный центральный вертикальный осевой момент -28.074611917876815  
-![Γ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Γ/horizontal_projection_Γ.png)  
-![Γ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Γ/vertical_projection_Γ.png)  
+![Γ](./resources/images/letter_Γ/horizontal_projection_Γ.png)  
+![Γ](./resources/images/letter_Γ/vertical_projection_Γ.png)  
 
 ## Буква Δ
   
-![Δ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Δ/Δ.png)  
+![Δ](./resources/images/letter_Δ/Δ.png)  
 Вес черного - 824  
 Удельный вес черного - 0.7573529411764706  
 Координаты центра масс - (15, 15)  
@@ -59,12 +59,12 @@
 Центральный вертикальный осевой момент - 77633  
 Нормированный центральный горизонтальный осевой момент -33.737155963302754  
 Нормированный центральный вертикальный осевой момент -35.611467889908255  
-![Δ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Δ/horizontal_projection_Δ.png)  
-![Δ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Δ/vertical_projection_Δ.png)  
+![Δ](./resources/images/letter_Δ/horizontal_projection_Δ.png)  
+![Δ](./resources/images/letter_Δ/vertical_projection_Δ.png)  
 
 ## Буква Ε
   
-![Ε](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ε/Ε.png)  
+![Ε](./resources/images/letter_Ε/Ε.png)  
 Вес черного - 700  
 Удельный вес черного - 0.6862745098039216  
 Координаты центра масс - (16, 17)  
@@ -73,12 +73,12 @@
 Центральный вертикальный осевой момент - 56863  
 Нормированный центральный горизонтальный осевой момент -27.790856031128406  
 Нормированный центральный вертикальный осевой момент -27.657101167315176  
-![Ε](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ε/horizontal_projection_Ε.png)  
-![Ε](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ε/vertical_projection_Ε.png)  
+![Ε](./resources/images/letter_Ε/horizontal_projection_Ε.png)  
+![Ε](./resources/images/letter_Ε/vertical_projection_Ε.png)  
 
 ## Буква Ζ
   
-![Ζ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ζ/Ζ.png)  
+![Ζ](./resources/images/letter_Ζ/Ζ.png)  
 Вес черного - 757  
 Удельный вес черного - 0.7182163187855788  
 Координаты центра масс - (15, 16)  
@@ -87,12 +87,12 @@
 Центральный вертикальный осевой момент - 67967  
 Нормированный центральный горизонтальный осевой момент -27.328767123287673  
 Нормированный центральный вертикальный осевой момент -32.10533774208786  
-![Ζ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ζ/horizontal_projection_Ζ.png)  
-![Ζ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ζ/vertical_projection_Ζ.png)  
+![Ζ](./resources/images/letter_Ζ/horizontal_projection_Ζ.png)  
+![Ζ](./resources/images/letter_Ζ/vertical_projection_Ζ.png)  
 
 ## Буква Η
   
-![Η](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Η/Η.png)  
+![Η](./resources/images/letter_Η/Η.png)  
 Вес черного - 857  
 Удельный вес черного - 0.6812400635930048  
 Координаты центра масс - (18, 16)  
@@ -101,12 +101,12 @@
 Центральный вертикальный осевой момент - 101935  
 Нормированный центральный горизонтальный осевой момент -30.015049504950493  
 Нормированный центральный вертикальный осевой момент -40.37029702970297  
-![Η](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Η/horizontal_projection_Η.png)  
-![Η](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Η/vertical_projection_Η.png)  
+![Η](./resources/images/letter_Η/horizontal_projection_Η.png)  
+![Η](./resources/images/letter_Η/vertical_projection_Η.png)  
 
 ## Буква Θ
   
-![Θ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Θ/Θ.png)  
+![Θ](./resources/images/letter_Θ/Θ.png)  
 Вес черного - 772  
 Удельный вес черного - 0.6487394957983194  
 Координаты центра масс - (17, 17)  
@@ -115,12 +115,12 @@
 Центральный вертикальный осевой момент - 74351  
 Нормированный центральный горизонтальный осевой момент -34.48887022259555  
 Нормированный центральный вертикальный осевой момент -31.226795464090717  
-![Θ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Θ/horizontal_projection_Θ.png)  
-![Θ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Θ/vertical_projection_Θ.png)  
+![Θ](./resources/images/letter_Θ/horizontal_projection_Θ.png)  
+![Θ](./resources/images/letter_Θ/vertical_projection_Θ.png)  
 
 ## Буква Ι
   
-![Ι](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ι/Ι.png)  
+![Ι](./resources/images/letter_Ι/Ι.png)  
 Вес черного - 348  
 Удельный вес черного - 0.6397058823529411  
 Координаты центра масс - (8, 16)  
@@ -129,12 +129,12 @@
 Центральный вертикальный осевой момент - 10573  
 Нормированный центральный горизонтальный осевой момент -20.69900849858357  
 Нормированный центральный вертикальный осевой момент -7.487960339943343  
-![Ι](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ι/horizontal_projection_Ι.png)  
-![Ι](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ι/vertical_projection_Ι.png)  
+![Ι](./resources/images/letter_Ι/horizontal_projection_Ι.png)  
+![Ι](./resources/images/letter_Ι/vertical_projection_Ι.png)  
 
 ## Буква Κ
   
-![Κ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Κ/Κ.png)  
+![Κ](./resources/images/letter_Κ/Κ.png)  
 Вес черного - 896  
 Удельный вес черного - 0.6934984520123839  
 Координаты центра масс - (20, 16)  
@@ -143,12 +143,12 @@
 Центральный вертикальный осевой момент - 120972  
 Нормированный центральный горизонтальный осевой момент -29.76269230769231  
 Нормированный центральный вертикальный осевой момент -46.527692307692305  
-![Κ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Κ/horizontal_projection_Κ.png)  
-![Κ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Κ/vertical_projection_Κ.png)  
+![Κ](./resources/images/letter_Κ/horizontal_projection_Κ.png)  
+![Κ](./resources/images/letter_Κ/vertical_projection_Κ.png)  
 
 ## Буква Λ
   
-![Λ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Λ/Λ.png)  
+![Λ](./resources/images/letter_Λ/Λ.png)  
 Вес черного - 1043  
 Удельный вес черного - 0.8072755417956656  
 Координаты центра масс - (18, 16)  
@@ -157,12 +157,12 @@
 Центральный вертикальный осевой момент - 138449  
 Нормированный центральный горизонтальный осевой момент -37.76  
 Нормированный центральный вертикальный осевой момент -53.24961538461538  
-![Λ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Λ/horizontal_projection_Λ.png)  
-![Λ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Λ/vertical_projection_Λ.png)  
+![Λ](./resources/images/letter_Λ/horizontal_projection_Λ.png)  
+![Λ](./resources/images/letter_Λ/vertical_projection_Λ.png)  
 
 ## Буква Μ
   
-![Μ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Μ/Μ.png)  
+![Μ](./resources/images/letter_Μ/Μ.png)  
 Вес черного - 1073  
 Удельный вес черного - 0.6860613810741688  
 Координаты центра масс - (22, 16)  
@@ -171,12 +171,12 @@
 Центральный вертикальный осевой момент - 195308  
 Нормированный центральный горизонтальный осевой момент -30.9278728606357  
 Нормированный центральный вертикальный осевой момент -59.69070904645477  
-![Μ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Μ/horizontal_projection_Μ.png)  
-![Μ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Μ/vertical_projection_Μ.png)  
+![Μ](./resources/images/letter_Μ/horizontal_projection_Μ.png)  
+![Μ](./resources/images/letter_Μ/vertical_projection_Μ.png)  
 
 ## Буква Ν
   
-![Ν](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ν/Ν.png)  
+![Ν](./resources/images/letter_Ν/Ν.png)  
 Вес черного - 927  
 Удельный вес черного - 0.7368839427662957  
 Координаты центра масс - (18, 17)  
@@ -185,12 +185,12 @@
 Центральный вертикальный осевой момент - 110802  
 Нормированный центральный горизонтальный осевой момент -34.858217821782176  
 Нормированный центральный вертикальный осевой момент -43.881980198019804  
-![Ν](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ν/horizontal_projection_Ν.png)  
-![Ν](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ν/vertical_projection_Ν.png)  
+![Ν](./resources/images/letter_Ν/horizontal_projection_Ν.png)  
+![Ν](./resources/images/letter_Ν/vertical_projection_Ν.png)  
 
 ## Буква Ξ
   
-![Ξ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ξ/Ξ.png)  
+![Ξ](./resources/images/letter_Ξ/Ξ.png)  
 Вес черного - 665  
 Удельный вес черного - 0.6519607843137255  
 Координаты центра масс - (15, 16)  
@@ -199,12 +199,12 @@
 Центральный вертикальный осевой момент - 52536  
 Нормированный центральный горизонтальный осевой момент -20.654182879377434  
 Нормированный центральный вертикальный осевой момент -25.55252918287938  
-![Ξ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ξ/horizontal_projection_Ξ.png)  
-![Ξ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ξ/vertical_projection_Ξ.png)  
+![Ξ](./resources/images/letter_Ξ/horizontal_projection_Ξ.png)  
+![Ξ](./resources/images/letter_Ξ/vertical_projection_Ξ.png)  
 
 ## Буква Ο
   
-![Ο](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ο/Ο.png)  
+![Ο](./resources/images/letter_Ο/Ο.png)  
 Вес черного - 843  
 Удельный вес черного - 0.7084033613445379  
 Координаты центра масс - (17, 17)  
@@ -213,12 +213,12 @@
 Центральный вертикальный осевой момент - 75642  
 Нормированный центральный горизонтальный осевой момент -34.703905921881564  
 Нормированный центральный вертикальный осевой момент -31.7690046199076  
-![Ο](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ο/horizontal_projection_Ο.png)  
-![Ο](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ο/vertical_projection_Ο.png)  
+![Ο](./resources/images/letter_Ο/horizontal_projection_Ο.png)  
+![Ο](./resources/images/letter_Ο/vertical_projection_Ο.png)  
 
 ## Буква Π
   
-![Π](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Π/Π.png)  
+![Π](./resources/images/letter_Π/Π.png)  
 Вес черного - 844  
 Удельный вес черного - 0.670906200317965  
 Координаты центра масс - (18, 17)  
@@ -227,12 +227,12 @@
 Центральный вертикальный осевой момент - 97613  
 Нормированный центральный горизонтальный осевой момент -27.375049504950496  
 Нормированный центральный вертикальный осевой момент -38.65861386138614  
-![Π](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Π/horizontal_projection_Π.png)  
-![Π](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Π/vertical_projection_Π.png)  
+![Π](./resources/images/letter_Π/horizontal_projection_Π.png)  
+![Π](./resources/images/letter_Π/vertical_projection_Π.png)  
 
 ## Буква Ρ
   
-![Ρ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ρ/Ρ.png)  
+![Ρ](./resources/images/letter_Ρ/Ρ.png)  
 Вес черного - 635  
 Удельный вес черного - 0.667016806722689  
 Координаты центра масс - (14, 18)  
@@ -241,12 +241,12 @@
 Центральный вертикальный осевой момент - 47062  
 Нормированный центральный горизонтальный осевой момент -29.64020618556701  
 Нормированный центральный вертикальный осевой момент -24.25876288659794  
-![Ρ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ρ/horizontal_projection_Ρ.png)  
-![Ρ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ρ/vertical_projection_Ρ.png)  
+![Ρ](./resources/images/letter_Ρ/horizontal_projection_Ρ.png)  
+![Ρ](./resources/images/letter_Ρ/vertical_projection_Ρ.png)  
 
 ## Буква Σ
   
-![Σ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Σ/Σ.png)  
+![Σ](./resources/images/letter_Σ/Σ.png)  
 Вес черного - 666  
 Удельный вес черного - 0.6754563894523327  
 Координаты центра масс - (14, 16)  
@@ -255,12 +255,12 @@
 Центральный вертикальный осевой момент - 52481  
 Нормированный центральный горизонтальный осевой момент -21.483224837255882  
 Нормированный центральный вертикальный осевой момент -26.27991987981973  
-![Σ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Σ/horizontal_projection_Σ.png)  
-![Σ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Σ/vertical_projection_Σ.png)  
+![Σ](./resources/images/letter_Σ/horizontal_projection_Σ.png)  
+![Σ](./resources/images/letter_Σ/vertical_projection_Σ.png)  
 
 ## Буква Τ
   
-![Τ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Τ/Τ.png)  
+![Τ](./resources/images/letter_Τ/Τ.png)  
 Вес черного - 797  
 Удельный вес черного - 0.7813725490196078  
 Координаты центра масс - (15, 17)  
@@ -269,12 +269,12 @@
 Центральный вертикальный осевой момент - 69070  
 Нормированный центральный горизонтальный осевой момент -31.17217898832685  
 Нормированный центральный вертикальный осевой момент -33.5943579766537  
-![Τ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Τ/horizontal_projection_Τ.png)  
-![Τ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Τ/vertical_projection_Τ.png)  
+![Τ](./resources/images/letter_Τ/horizontal_projection_Τ.png)  
+![Τ](./resources/images/letter_Τ/vertical_projection_Τ.png)  
 
 ## Буква Υ
   
-![Υ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Υ/Υ.png)  
+![Υ](./resources/images/letter_Υ/Υ.png)  
 Вес черного - 994  
 Удельный вес черного - 0.7901430842607313  
 Координаты центра масс - (18, 17)  
@@ -283,12 +283,12 @@
 Центральный вертикальный осевой момент - 129445  
 Нормированный центральный горизонтальный осевой момент -34.948910891089106  
 Нормированный центральный вертикальный осевой момент -51.26534653465347  
-![Υ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Υ/horizontal_projection_Υ.png)  
-![Υ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Υ/vertical_projection_Υ.png)  
+![Υ](./resources/images/letter_Υ/horizontal_projection_Υ.png)  
+![Υ](./resources/images/letter_Υ/vertical_projection_Υ.png)  
 
 ## Буква Φ
   
-![Φ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Φ/Φ.png)  
+![Φ](./resources/images/letter_Φ/Φ.png)  
 Вес черного - 813  
 Удельный вес черного - 0.6642156862745098  
 Координаты центра масс - (17, 16)  
@@ -297,12 +297,12 @@
 Центральный вертикальный осевой момент - 96824  
 Нормированный центральный горизонтальный осевой момент -34.41190864600326  
 Нормированный центральный вертикальный осевой момент -39.48776508972268  
-![Φ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Φ/horizontal_projection_Φ.png)  
-![Φ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Φ/vertical_projection_Φ.png)  
+![Φ](./resources/images/letter_Φ/horizontal_projection_Φ.png)  
+![Φ](./resources/images/letter_Φ/vertical_projection_Φ.png)  
 
 ## Буква Χ
   
-![Χ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Χ/Χ.png)  
+![Χ](./resources/images/letter_Χ/Χ.png)  
 Вес черного - 931  
 Удельный вес черного - 0.7400635930047694  
 Координаты центра масс - (18, 17)  
@@ -311,12 +311,12 @@
 Центральный вертикальный осевой момент - 120442  
 Нормированный центральный горизонтальный осевой момент -31.132673267326734  
 Нормированный центральный вертикальный осевой момент -47.69980198019802  
-![Χ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Χ/horizontal_projection_Χ.png)  
-![Χ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Χ/vertical_projection_Χ.png)  
+![Χ](./resources/images/letter_Χ/horizontal_projection_Χ.png)  
+![Χ](./resources/images/letter_Χ/vertical_projection_Χ.png)  
 
 ## Буква Ψ
   
-![Ψ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ψ/Ψ.png)  
+![Ψ](./resources/images/letter_Ψ/Ψ.png)  
 Вес черного - 907  
 Удельный вес черного - 0.7020123839009288  
 Координаты центра масс - (18, 18)  
@@ -325,12 +325,12 @@
 Центральный вертикальный осевой момент - 125049  
 Нормированный центральный горизонтальный осевой момент -33.058461538461536  
 Нормированный центральный вертикальный осевой момент -48.09576923076923  
-![Ψ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ψ/horizontal_projection_Ψ.png)  
-![Ψ](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ψ/vertical_projection_Ψ.png)  
+![Ψ](./resources/images/letter_Ψ/horizontal_projection_Ψ.png)  
+![Ψ](./resources/images/letter_Ψ/vertical_projection_Ψ.png)  
 
 ## Буква Ω
   
-![Ω](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ω/Ω.png)  
+![Ω](./resources/images/letter_Ω/Ω.png)  
 Вес черного - 816  
 Удельный вес черного - 0.6486486486486487  
 Координаты центра масс - (18, 15)  
@@ -339,5 +339,5 @@
 Центральный вертикальный осевой момент - 85273  
 Нормированный центральный горизонтальный осевой момент -26.75920792079208  
 Нормированный центральный вертикальный осевой момент -33.77148514851485  
-![Ω](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ω/horizontal_projection_Ω.png)  
-![Ω](C:/Users/Dell/Desktop/avi/lab_4/resources/images/letter_Ω/vertical_projection_Ω.png)  
+![Ω](./resources/images/letter_Ω/horizontal_projection_Ω.png)  
+![Ω](./resources/images/letter_Ω/vertical_projection_Ω.png)  
